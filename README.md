@@ -24,7 +24,7 @@
   *Simplificated version of a common shell programmed in C*  
   🔗 _[link will be added soon]_
 
-- 🦾 [**Mano-Zeus Poroject**](https://github.com/RoboTech-URJC/Mano-Zeus)  
+- 🦾 [**Mano-Zeus Project**](https://github.com/RoboTech-URJC/Mano-Zeus)  
   *Collaborator in adaptating the InMoov open source project for academic research*
 
 - 🏆 [**Nocom-pila**](https://vbarcena2020.github.io/Nocom-Pila/)  
