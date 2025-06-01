@@ -37,6 +37,7 @@
 - 🎓 English C1 certificate | URJC
 - 🖋️ Designer of the RosCon 2023 logo
 - 📚 Self-taught logo design and more graphic skills | Mind map thinker
+- 🧑‍🎓 Student github profile: [mmunozs2020](https://github.com/mmunozs2020)
 
 ---
 
